@@ -1,0 +1,27 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "Directory starter for projects\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatpandadesigns/project_starter.git"
+  },
+  "keywords": [
+    "project",
+    "starter"
+  ],
+  "author": "Chris Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatpandadesigns/project_starter/issues"
+  },
+  "homepage": "https://github.com/fatpandadesigns/project_starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
